@@ -1,10 +1,9 @@
 # f1-data-visualizer
 A Python-based dashboard for visualizing 15 years of Formula 1 race data using pandas, matplotlib, plotly, and Streamlit.
+
 # F1 Data Visualizer
 
 A Streamlit-powered dashboard for exploring Formula 1 race data from **2015 to 2024**. Visualize driver & constructor performance, podium finishes, and get a data-driven prediction for the **2025 season** — all offline with no internet required!
-
-![F1 Dashboard Preview](https://via.placeholder.com/800x400?text=F1+Data+Visualizer+Preview) *(Replace with actual screenshot if available)*
 
 ## 📊 Features
 
